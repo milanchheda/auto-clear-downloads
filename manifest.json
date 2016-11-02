@@ -1,7 +1,7 @@
 {
 	"name": "Auto Clear Downloads",
 	"version": "1.0.0",
-	"description": "Clears the Downloads list every X seconds when all downloads are complete.",
+	"description": "Clears the Downloads list every 30 seconds when all downloads are complete.",
 	"homepage_url": "https://github.com/milanchheda/auto-clear-downloads",
 	"manifest_version": 2,
 	"permissions": [
